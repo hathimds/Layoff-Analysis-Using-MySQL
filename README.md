@@ -53,18 +53,6 @@ To analyze global tech industry layoffs using structured SQL queries — startin
 
 ---
 
-## 📂 Project Structure
-```
-Layoff-Analysis-Using-MySQL/
-│
-├── SQL/
-│   ├── data_cleaning.sql
-│   └── exploratory_data_analysis.sql
-└── README.md
-```
-
----
-
 ## 🚀 Future Scope
 - Integrate Power BI dashboard for visual storytelling
 - Add predictive analysis based on funding + layoffs
